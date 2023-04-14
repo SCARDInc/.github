@@ -6,7 +6,7 @@ Skin Cancer Audit and Research Data Inc.
 
 Skin Cancer Audit and Research Data Inc (aka SCARD Inc) is an Incorporated Association in Queensland, Australia.
 
-The objective of SCARD Inc is "to collect, manage and analyise medical records for the treatment of skin malignancies to provide education and statistical resources for primary care practitioners".
+The objective of SCARD Inc is "To collect, manage and analyse deidentified data regarding the management of skin malignancies, and to provide education and statistical feedback for health care professionals."
 
 One of the goals of Skin Cancer Audit and Research Data Inc is to establish a data lake of skin cancer treatments as well as processed results available in a database.
 
